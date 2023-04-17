@@ -1,0 +1,49 @@
+{ "Gamehits" : [
+  {
+    "id" : 1,
+    "namaGame": "PUBG",
+    "Perusahaan": "Tencent Games",
+    "Logo": "https://th.bing.com/th/id/R.732907d35ddce2bddd8e4e771f7f7187?rik=1QIG1ONzwbDGUA&riu=http%3a%2f%2fmedia.comicbook.com%2f2018%2f01%2fpubg-4-1070817.jpeg&ehk=TWX%2fiWcofrknr32ebTcsydVfymXdQ7EznkCmmoc1xk0%3d&risl=&pid=ImgRaw&r=0",
+    "Keterangan":
+      "PUBG Mobile adalah sebuah permainan video battle royale gratis dimainkan yang dikembangkan oleh LightSpeed & Quantum Studio, sebuah divisi dari Tencent Games. Ini merupakan adaptasi permainan piranti genggam dari PlayerUnknowns Battlegrounds yang dirilis untuk Android dan IOS pada 19 Maret 2018. Permainan ini diterbitkan oleh beberapa penerbit di berbagai wilayah, seperti Krafton, Tencent, dan VNG. Pada April 2022, PUBG Mobile telah mendapatkan lebih dari satu miliar unduhan dan menghasilkan lebih dari US$8,3 miliar, menjadikannya permainan piranti genggam terlaris keempat. Ini juga termasuk permainan piranti genggam yang paling sering dimainkan sepanjang masa. Pada 2021, permainan ini mengeluarkan versi India, Battlegrounds Mobile India, dan permainan yang terpisah dari Semesta PUBG, PUBG: New State"
+  },
+
+  {
+    "id" : 2,
+    "namaGame": "Mobile Legends",
+    "Perusahaan": "Moonton",
+    "Logo": "https://2.bp.blogspot.com/-rf3Tn3cthlI/Wbof88Qi9wI/AAAAAAAAAII/rg4Sm4bEjV8x2z4hSGw65KkbjC6V0LldwCLcBGAs/s1600/mobile%2Blegends%2Bwallpaper%2Bcodename%2Bstorm.jpeg",
+    "Keterangan":
+      "Mobile Legends: Bang Bang adalah permainan video seluler ber-genre multiplayer online battle arena (MOBA) yang dikembangkan dan diterbitkan oleh Moonton, anak perusahaan dari ByteDance. Dirilis pada tahun 2016, game ini semakin populer di seluruh dunia, terutama di wilayah Asia Tenggara, dan sejak itu telah melampaui 1 miliar kali unduhan, dengan puncak pemain bulanan sebanyak 100 juta. Pada tahun 2021, Mobile Legends: Bang Bang mencapai pendapatan kotor sepanjang masa sebesar US$1 miliar dengan 44 persen pendapatannya berasal dari luar Asia, menjadikannya gim seluler teratas dari genre-nya dengan daya tarik paling global. "
+  },
+
+  {
+    "id" : 3,
+    "namaGame": "Point Blank",
+    "Perusahaan": "Zepetto",
+    "Logo": "https://wallpapercave.com/wp/DZpdAxx.jpg",
+    "Keterangan":
+      "Point Blank  adalah permainan komputer daring yang dikembangkan oleh Zepetto untuk platform Windows. Permainan ini diterbitkan di banyak negara dengan pengelolaan server secara mandiri oleh penerbit di masing-masing negara. Di Indonesia, permainan ini dikelola oleh Zepetto Interactive sejak November 2018 setelah dikelola oleh penerbit Gemscool berikut Garena. Point Blank berkisah tentang perseteruan antara Free Rebels dan pemerintah yang dalam hal ini adalah Counter Terrorist Force (CT-Force)."
+  },
+
+  {
+    "id" : 4,
+    "namaGame": "Free Fire",
+    "Perusahaan": "Garena",
+    "Logo": "https://www.talkesport.com/wp-content/uploads/free-fire.jpeg",
+    "Keterangan":
+     "Garena Free Fire atau biasa disebut Free Fire (sering disingkat FF) adalah permainan battle royale yang dikembangkan oleh 111 Dots Studio dan diterbitkan oleh Garena untuk Android dan iOS. Itu menjadi permainan seluler yang paling banyak diunduh secara global pada tahun 2019. Karena popularitasnya, permainan ini menerima penghargaan untuk Best Popular Vote Game oleh Google Play Store pada tahun 2019. Pada Mei 2020, Free Fire telah mencetak rekor dengan lebih dari 80 juta pengguna aktif harian di seluruh dunia. Pada November 2019, Free Fire telah mendapat lebih dari US$1 miliar di seluruh dunia. Garena saat ini sedang mengerjakan versi Free Fire yang disempurnakan yang akan disebut Free Fire Max. "
+  },
+
+  {
+    "id" : 5,
+    "namaGame": "Valorant",
+    "Perusahaan": "Riot Games",
+    "Logo": "https://cdn1.dotesports.com/wp-content/uploads/2021/01/22161438/VALORANT_Jett_Dark-2048x1152.jpg",
+    "Keterangan":
+      "Valorant  adalah permainan video POP (penembak orang pertama) taktis multipemain gratis yang dikembangkan dan diterbitkan oleh Riot Games, untuk Microsoft Windows. Pertama kali menggoda dengan nama kode Project A pada Oktober 2019, permainan memulai periode beta tertutup dengan akses terbatas pada 7 April 2020, diikuti dengan perilisan resmi pada 2 Juni 2020. Pengembangan permainan dimulai pada 2014."
+  }
+
+]
+
+}
